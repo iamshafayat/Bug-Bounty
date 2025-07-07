@@ -65,4 +65,4 @@ A specialized search engine that helps security researchers find potential vulne
 
 ## ❤️ Contributions
 
-Contributions are welcome! 🛠️ If you'd like to enhance BugBoard or fix issues, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! Please see the `README.md` file in each project directory for specific guidelines.
