@@ -4,7 +4,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
 
 <br>
 
-## Try BugBoard!🌐 [https://iamshafayat.github.io/Bug-Bounty/BugBoard](https://iamshafayat.github.io/Bug-Bounty/BugBoard/)
+## Try BugBoard!🌐 [https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard](https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard/)
 
 
 ---
@@ -22,7 +22,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
 
 ## 🌐 How to Use
 
-1. Visit the live page hosted on **GitHub Pages**: --> [https://iamshafayat.github.io/Bug-Bounty/BugBoard](https://iamshafayat.github.io/Bug-Bounty/BugBoard/).  
+1. Visit the live page hosted on **GitHub Pages**: --> [https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard](https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard/).  
 2. Explore the dashboard to:
    - Run vulnerability scans.
    - Configure custom parameters for targeted scans.
