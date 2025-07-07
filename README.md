@@ -14,7 +14,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
 
 <br>
 
-## Try BugBoard!🌐 [https://iamshafayat.github.io/Bug-Bounty/BugBoard](https://iamshafayat.github.io/Bug-Bounty/BugBoard/)
+## Try BugBoard!🌐 [https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard](https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard/)
 
 
 ---
@@ -32,7 +32,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
 
 ## 🌐 How to Use
 
-1. Visit the live page hosted on **GitHub Pages**: --> [https://iamshafayat.github.io/Bug-Bounty/BugBoard](https://iamshafayat.github.io/Bug-Bounty/BugBoard/).  
+1. Visit the live page hosted on **GitHub Pages**: --> [https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard](https://iamshafayat.github.io/Bug-Bounty-Toolkit/BugBoard/).  
 2. Explore the dashboard to:
    - Run vulnerability scans.
    - Configure custom parameters for targeted scans.
@@ -46,7 +46,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
 
 A specialized search engine that helps security researchers find potential vulnerabilities and exposed information on target domains.
 
-## Try BugBoard!🌐 [https://iamshafayat.github.io/Bug-Bounty/Bug-Bounty-Search-Engine/](https://iamshafayat.github.io/Bug-Bounty/Bug-Bounty-Search-Engine/)
+## Try BugBoard!🌐 [https://iamshafayat.github.io/Bug-Bounty-Toolkit/Bug-Bounty-Search-Engine/](https://iamshafayat.github.io/Bug-Bounty-Toolkit/Bug-Bounty-Search-Engine/)
 
 **Features**:
 - Directory listing vulnerability detection
