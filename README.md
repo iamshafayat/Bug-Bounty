@@ -1,7 +1,7 @@
 # Bug Hunter Toolkit 🛠️
 
 ## Overview
-This repository combines two powerful tools for bug bounty hunters and security researchers into a single, organized project:
+This repository combines two tools for bug bounty hunters and security researchers into a single, organized project:
 1. **BugBoard:** A comprehensive web application dashboard for bug hunters
 2. **Bug Bounty Search Engine:** A specialized search engine for finding vulnerabilities and exposed information
 
